@@ -1,0 +1,32 @@
+body {
+    color: white;
+    background-image: url("img/night.jpg");
+    background-size: cover;
+    font-family: 'Croissant One', cursive;
+    size: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-join {
+    width: 200px;
+    height: 75px;
+    font-family: inherit;
+    font-size: 25px;
+    padding: 10px 20px;
+    text-align: center;
+    border: outset 5px #dc2f02;
+    border-radius: 5%;
+    align-self: center;
+    margin-top: 150px;
+}
+
+h2,h3,h4,p {
+    text-shadow: 0 0 5px black;
+    width: 50%;
+    color: #dc2f02;
+}
+
+#hero {
+
+}
